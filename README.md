@@ -1,0 +1,2 @@
+# netkeiba_scraping_extension
+netkeibaのスクレイピングを行うchrome拡張
